@@ -18,3 +18,4 @@ A facial recognition system is a technology capable of matching a human face fro
 • `pip install pandas` <br> 
 • `pip install numpy` <br>
 • `conda install--` <br>
+• `pip install dlib` <br>
