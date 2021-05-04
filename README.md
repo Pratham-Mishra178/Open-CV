@@ -23,4 +23,12 @@ A facial recognition system is a technology capable of matching a human face fro
 • `pip install pandas` <br> 
 • `pip install numpy` <br>
 • `conda install--` <br>
-• `pip install dlib` <br>
+• `pip install dlib` <br><br>
+• Now Fork my repository and then clone the repository as your local repository.<br>
+• ⚠ NOTE: All the .xml data files and the python file should be in the same directory<br><br>
+• To start the application you can call `python Face_detection.py` in you cmd/terminal.<br><br>
+
+## ⚡ You Are Good To Go Now !! <br>
+
+## ⚡ Example: <br>
+
