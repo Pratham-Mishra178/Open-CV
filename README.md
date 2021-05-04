@@ -1,11 +1,15 @@
-#### Face Recognition 👱
+# Face Recognition 👱🏻‍♂️<br>
+
 ## ⚡ Introduction: <br>
+
 <p>
 A facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.
 </p><br>
+
 ## ⚡ Setup And Requirements: <br>
+
 • Open yor cmd or any terminal you usually use and run the following coomands →<br>
-• `<pip install --upgrade pip>` <br> 
+• `pip install --upgrade pip` <br> 
 • `pip install opencv-python` <br>
 • `pip install pandas` <br> 
 • `pip install numpy` <br>
