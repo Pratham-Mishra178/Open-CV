@@ -1,1 +1,1 @@
-<h1 align="centre"> Face Recognition </h!>
+<h1 align="center"> Face Recognition </h!>
