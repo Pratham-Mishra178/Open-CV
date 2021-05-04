@@ -6,8 +6,8 @@
 A facial recognition system is a technology capable of matching a human face from a digital image or a video frame against a database of faces, typically employed to authenticate users through ID verification services, works by pinpointing and measuring facial features from a given image.
 </p><br>
 <p>
-  So I coded this in python with the help of VS Code. In the guidance of <a href="https://github.com/amanindiamuzz"><b>@amanindiamuzz</b></a>. I just added some extra features like now it is recognisng the eyes and smile also.<br>
-  So now the <U><b>CONCLUSION</b></U> is it's now recognising only human faces .<br>
+So I coded this in python with the help of VS Code. In the guidance of <a href="https://github.com/amanindiamuzz"><b>@amanindiamuzz</b></a>. I just added some extra features like now it is recognisng the eyes and smile also.<br>
+• So now the   <i><b>CONCLUSION</b></i>   is it's now recognising only human faces .<br>
 </p>
 <hr><br>
 
