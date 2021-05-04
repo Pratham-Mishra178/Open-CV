@@ -1,4 +1,4 @@
-# Face Recognition 👱🏻‍♂️<br>
+<h1 align="center"> Face Recognition 👱🏻‍♂️ </h1><br>
 
 ## ⚡ Introduction: <br>
 
