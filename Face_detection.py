@@ -1,5 +1,7 @@
 #Just added some features to this existing code 
 #after modification it can also recognise the smile and eyes
+#Which means now it is a proper human face recognisor !!
+
 
 import cv2
 from random import randrange 
