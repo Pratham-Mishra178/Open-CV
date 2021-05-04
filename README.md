@@ -8,7 +8,7 @@ A facial recognition system is a technology capable of matching a human face fro
 
 ## ⚡ Setup And Requirements: <br>
 
-• Open yor cmd or any terminal you usually use and run the following commands →<br>
+• Open yor cmd or any terminal you usually use and run the following commands →<br><br>
 • `pip install --upgrade pip` <br> 
 • `pip install opencv-python` <br>
 • `pip install pandas` <br> 
